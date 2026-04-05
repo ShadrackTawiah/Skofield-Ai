@@ -1,0 +1,9 @@
+{
+  "name": "MR SKOFILED",
+  "description": "An advanced AI assistant with multi-modal capabilities including chat, search, maps, video generation, and speech synthesis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
